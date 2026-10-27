@@ -1,0 +1,8 @@
+Intent,Keywords,Response
+Greeting,hi|hello|hey|greetings|good morning|good evening,Hello! Welcome to CodeAlpha AI Assistant. How can I help you today?
+Help,help|support|assist|what can you do,I can answer questions about our services, explain programming concepts, help with FAQs, or chat with you! Just type your question.
+CodeAlpha,codealpha|internship|company|program,CodeAlpha is a tech platform providing remote internships and hands-on project-based learning in software development, AI, and cybersecurity.
+Java,java|oop|swing|jdk|object oriented,Java is a robust, object-oriented programming language widely used for desktop, mobile (Android), and enterprise backend applications.
+Services,services|offer|what do you do|products,We offer virtual tech internships, guided project tutorials, and hands-on coding challenges to help students build real-world portfolios.
+Contact,contact|email|reach|support team|phone,You can reach out to the CodeAlpha support team through their official website or community portal.
+Goodbye,bye|goodbye|see you|exit|quit,Goodbye! Have an amazing day. Feel free to reach out whenever you need more help!
