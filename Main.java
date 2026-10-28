@@ -1,4 +1,4 @@
-package CodeAlpha_AIChatbot;
+
 
 import com.codealpha.chatbot.service.ChatService;
 import com.codealpha.chatbot.ui.ChatbotGUI;
